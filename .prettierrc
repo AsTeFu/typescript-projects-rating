@@ -1,0 +1,10 @@
+{
+  "singleQuote": true,
+  "plugins": [
+    "prettier-plugin-tailwindcss"
+  ],
+  "tailwindFunctions": [
+    "cva"
+  ],
+  "printWidth": 90
+}
